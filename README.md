@@ -1,4 +1,4 @@
-# FLICKERIMAGEGALLERY
+# FlickrImageGallery
 
 ## Project setup
 
